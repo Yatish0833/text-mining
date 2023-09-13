@@ -1,5 +1,10 @@
 **Required input:** `PMID` (pubmed_Id's)
 
+Now the PubTator pipeline is super stable and efficent with new improvemeents.
+Has query mechanism to verify and skip if PubMed id already exist.
+Stores every iteration in csv file.
+Will perform parallel API request. Cutting down retriving annotations i.e., 30 mins for 1000 request to 100-120 seconds.
+
 ### Change Log (13/09/2023) ~SIVA
 
 #### :rocket: 1. Shift to Asynchronous API Requests
