@@ -1,5 +1,28 @@
 **Required input:** `PMID` (pubmed_Id's)
 
+### Change Log (13/09/2023) ~SIVA
+
+#### :rocket: 1. Shift to Asynchronous API Requests
+Transitioned from a threaded approach to asynchronous programming with `asyncio` and `httpx` to boost data fetching efficiency. The `workers` parameter remains unused in this version and might be removed or repurposed in future iterations.
+
+#### :zap: 2. Batch Processing in API Requests
+Introduced batch processing to reduce the total number of HTTP requests made during data retrieval. This is facilitated by the new `fetch_data_batch_async` function, making data fetching quicker and smoother.
+
+#### :shield: 3. Refined Error Handling and XML Parsing
+Enhanced error handling with more robust management of potential XML parsing errors, maintained within the `process_response_batch` function. This enhancement safeguards the robustness of the data fetching process.
+
+#### :hammer_and_wrench: 4. Data Storage and Aggregation Optimization
+Continued using the `concept_data_dict`, a nested dictionary, for efficient data aggregation and streamlined its population process from batch responses, facilitating seamless data updating and extraction.
+
+#### :memo: 5. Documentation and Code Readability
+Updated docstrings and inline comments to reflect recent changes and enhance code readability, assisting in better maintenance and understanding of the code structure and functionalities.
+
+#### :floppy_disk: 6. CSV Writing Logic Adjustment
+Modified the CSV writing logic to append data in a single instance at the end of the function, reducing IO overhead and optimizing the data writing process.
+
+#### :gear: 7. Incorporation of Nest Asyncio
+Included `nest_asyncio.apply()` to ensure compatibility of the asyncio event loop with IPython environments, promoting a smoother development and runtime experience across different Python environments.
+
 # Changelog (after Michael's code) V1
 
 1. Merged test and train into one dataset.
@@ -43,30 +66,6 @@ Key highlights are:
 
 ### Visualization
 - Exploring suitable tools to visualize large network maps (underway...).
-
-### Change Log (13/09/2023) ~SIVA
-
-#### :rocket: 1. Shift to Asynchronous API Requests
-Transitioned from a threaded approach to asynchronous programming with `asyncio` and `httpx` to boost data fetching efficiency. The `workers` parameter remains unused in this version and might be removed or repurposed in future iterations.
-
-#### :zap: 2. Batch Processing in API Requests
-Introduced batch processing to reduce the total number of HTTP requests made during data retrieval. This is facilitated by the new `fetch_data_batch_async` function, making data fetching quicker and smoother.
-
-#### :shield: 3. Refined Error Handling and XML Parsing
-Enhanced error handling with more robust management of potential XML parsing errors, maintained within the `process_response_batch` function. This enhancement safeguards the robustness of the data fetching process.
-
-#### :hammer_and_wrench: 4. Data Storage and Aggregation Optimization
-Continued using the `concept_data_dict`, a nested dictionary, for efficient data aggregation and streamlined its population process from batch responses, facilitating seamless data updating and extraction.
-
-#### :memo: 5. Documentation and Code Readability
-Updated docstrings and inline comments to reflect recent changes and enhance code readability, assisting in better maintenance and understanding of the code structure and functionalities.
-
-#### :floppy_disk: 6. CSV Writing Logic Adjustment
-Modified the CSV writing logic to append data in a single instance at the end of the function, reducing IO overhead and optimizing the data writing process.
-
-#### :gear: 7. Incorporation of Nest Asyncio
-Included `nest_asyncio.apply()` to ensure compatibility of the asyncio event loop with IPython environments, promoting a smoother development and runtime experience across different Python environments.
-
 
 ### Enhancements
 - Added a progress bar to track API requests.
