@@ -1,0 +1,1318 @@
+pubmed_id,concept_name,count,gene_id
+1401,phenylalanine hydroxylase,4,24616
+11906,alpha-glucosidase,1,6476
+22474,insulin,1,3630
+36611,arylsulfatase a,1,410
+36611,ars(a),1,410
+36611,ars(b),2,100759794
+36611,mitochondrial aconitase,1,50
+48211,alpha-1,4,597
+48211,alpha-2,4,170589
+48766,antithrombin,1,462
+52952,iga,1,973
+58261,alpha-1-antitrypsin,1,5265
+58261,alpha1-antitrypsin,2,5265
+62026,acid beta-galactosidase,1,2720
+65455,albumin,3,213
+71842,alpha-2-macroglobulin,4,2
+71842,transferrin,2,7018
+71842,alpha-2,2,170589
+71842,haptoglobin,2,3240
+77056,hla-a,1,3105
+83481,nerve-growth-factor,1,4803
+83481,nerve-growth factor,1,4803
+83795,beta-galactosidase,4,2720
+93993,thyroglobulin,1,7038
+95586,thyroglobulin,1,7038
+98248,beta-galactosidase,1,2720
+99746,ga2,6,2108
+103558,saa,8,6287
+114636,complement c3,4,718
+119408,erythropoietin,3,2056
+168054,androgen receptor,3,11835
+172903,tfm,2,11835
+172998,alpha- and beta-glucosidase,1,69983
+172998,alpha- and beta-galactosidase,1,12091
+172998,beta mannosidase,1,110173
+173184,galactokinase,4,2584
+173184,galactose-1-phosphate uridylyltransferase,2,2592
+173184,galk,14,2584
+173184,galactose-1-phosphate uridylyl-transferase,2,2592
+173184,galt,8,2592
+173185,galactokinase,3,2584
+173185,galk,15,2584
+173185,galactose-1-phosphate uridylyltransferase,3,2592
+173185,galt,9,2592
+174379,beta-galactosidase,2,2720
+177236,serum albumin,1,443393
+181398,thyroglobulin,4,7038
+182362,insulin,1,100379579
+182362,proinsulin,1,16334
+188519,nerve growth factor,4,101104540
+188519,ngf,4,18049
+192899,glucose-6-phosphatase,4,25634
+192899,g-6-pase,6,25634
+194478,galactokinase,2,2584
+194478,galk,6,2584
+194654,tfm,1,11835
+204112,galactokinase,1,2584
+204112,galactose-1-phosphate uridyltransferase,1,2592
+204112,gal-1,1,3956
+204112,gal-1-put,1,2592
+205362,pyruvate carboxylase,3,5091
+205362,pc,12,5091
+205362,phosphoenolpyruvate carboxykinase,3,5106
+205362,pepck,12,5106
+205362,glucose-6-phosphatase,3,2538
+205362,g6pase,12,2538
+230195,hex,4,3087
+234498,thyroglobulin,16,100857838
+240271,beta hexosaminidase,6,10724
+240271,hex a,14,3073
+240271,hex b,4,3074
+265697,ck,2,51727
+299239,delta-aminolevulinic acid dehydratase,2,210
+299239,d-ala-d,4,210
+299239,porphobilinogen deaminase,2,3145
+299239,pbg-d,4,3145
+299239,ferrochelatase,2,2235
+299239,fch,4,2235
+306159,thyroglobulin,3,21819
+307474,thyroglobulin,2,7038
+313695,c1 esterase,1,716
+314560,alpha-1-antitrypsin,4,5265
+316371,thyroglobulin,1,7038
+316435,viiivwf,2,1351
+316435,fab,1,2187
+323439,insulin,3,3630
+323439,glucagon,3,2641
+334183,"c3, c4, factor b",1,718
+344076,thyroglobulin,2,100857838
+353918,insulin,1,3630
+384139,thyroglobulin,1,7038
+401730,thyroglobulin,18,7038
+401730,migration inhibition factor,4,4282
+401730,mif,8,4282
+408143,cnf,2,4868
+414916,c3a,2,718
+435403,antithrombin iii,2,462
+435403,at iii,7,462
+446310,thyroglobulin,1,7038
+471190,acid phosphatase,2,351
+480486,hla-a,3,3105
+480486,hla-b,3,3106
+481442,catalase,4,847
+481442,sod,2,6647
+484541,ferrochelatase,3,2235
+489556,phenylalanine hydroxylase,6,5053
+489556,albumin,1,213
+545716,sta,6,2656
+545716,serum albumin,3,213
+545716,hex a-),3,3073
+545716,hex a,6,3073
+564103,thyroglobulin,2,100857838
+573131,coagulation factor x,2,2159
+573131,thrombin,2,2147
+576614,thyroglobulin,9,7038
+576614,serum albumin,2,213
+577211,thyroglobulin,4,7038
+577211,tg,26,7038
+578072,antithrombin,1,462
+580305,thyroglobulin,4,7038
+580305,tg,22,7038
+580417,thyroglobulin,14,7038
+583090,thyroglobulin,4,24826
+583403,thyroglobulin,4,7038
+583403,tg,12,7038
+616039,cnf,1,4868
+620450,cnf,5,4868
+639065,a-10,1,394432
+650257,lcat,1,3931
+651380,iga,1,973
+675210,c3-proactivator,1,629
+677553,hla-a,4,3105
+677553,hla-b,4,3106
+682610,thyroglobulin,1,7038
+699062,thyroglobulin,1,100721233
+739270,insulin,3,3630
+804170,beta-galactosidase,5,2720
+804170,neuraminidase,1,4758
+808963,hex a,21,3073
+808963,hex b,14,3074
+826588,slp,11,100418288
+842341,insulin,7,3630
+842341,glucagon,8,2641
+919557,"alpha 1, alpha 2",2,597
+926106,antithrombin,2,462
+926106,iga,1,973
+939201,tfm,6,11835
+970989,c1q,1,712
+972144,alpha1 leads to 2) gal (beta1 leads to 4) glcnac(beta1,1,51083
+972144,beta1,1,597
+976312,gla,4,2717
+976312,mlc,2,23209
+1008062,complement c3,9,718
+1008483,uroporphyrinogen i synthetase,4,3145
+1008483,uro-s,12,3145
+1036092,acetylcholinesterase,3,11423
+1036092,nerve growth factor,2,18049
+1036092,ngf,4,4803
+1036092,ache,2,43
+1036742,thyroglobulin,1,7038
+1058495,methylmalonyl-coa mutase,1,4594
+1058495,cbl,1,867
+1058495,cbl b,1,868
+1058495,cbl c,1,23624
+1059104,methylmalonyl-coa mutase,2,4594
+1059104,cbl,10,867
+1059104,cbl b,4,868
+1059104,cbl c,2,23624
+1059104,cbl a,2,166785
+1105371,growth hormone,12,2688
+1105371,insulin,12,3630
+1105371,glucagon,12,2641
+1105371,gh,24,2688
+1110865,insulin,24,3630
+1116148,nerve growth factor,1,18049
+1122632,cystathionine beta-synthase,1,875
+1136541,retinol-binding protein,4,5950
+1136541,rbp,8,5950
+1144451,insulin,8,3630
+1147652,insulin,5,3630
+1165472,uroporphyrinogen i synthetase,1,3145
+1165472,uro-s,7,3145
+1201740,thyroglobulin,10,7038
+1202173,antithrombin iii,1,462
+1211127,somatotropin,4,403795
+1222826,hemopexin,1,3263
+1222826,haptoglobin,1,3240
+1222826,ceruloplasmin,1,1356
+1222826,transferrin,1,7018
+1245093,uroporphyrinogen-1-synthetase,1,7390
+1245093,uro-s,2,7390
+1245093,cytochrome p-450,1,4051
+1248804,tfm,6,11835
+1279436,cftr,4,1080
+1279436,cystic fibrosis transmembrane conductance regulator,1,1080
+1279437,cystic fibrosis transmembrane conductance regulator,2,1080
+1279437,cftr,1,1080
+1279646,psa,9,5324
+1279646,cathepsin-d,15,1509
+1279646,ps2,15,338412
+1279646,cap = 1,3,10487
+1279809,cftr,7,100381094
+1281035,cftr,4,1080
+1281122,g-csf,7,1440
+1281122,interleukin-2,2,3558
+1281692,interleukin-4,1,16189
+1281692,il-4,5,3565
+1281692,ltk,1,17005
+1281692,cdw32,1,2213
+1281692,il-2,2,3558
+1281692,il-1 alpha,1,3552
+1281692,il-6,1,3569
+1281692,transforming growth factor beta,1,7124
+1281711,gfap,1,2670
+1281711,ck bb,1,1152
+1282007,cd4,4,920
+1282007,l-selectin,2,6402
+1282007,vla-1,1,3672
+1282016,cftr,1,1080
+1282296,cftr,20,1080
+1282296,cystic fibrosis transmembrane conductance regulator,2,1080
+1282304,cftr,11,1080
+1282304,tau,1,4137
+1283148,cftr,6,1080
+1283148,cystic fibrosis transmembrane conductance regulator,2,1080
+1283149,cftr,8,1080
+1283149,cystic fibrosis transmembrane conductance regulator,2,1080
+1283151,cftr,1,1080
+1283151,cystic fibrosis transmembrane conductance regulator,1,1080
+1283174,thyroglobulin,6,7038
+1283476,growth hormone-releasing hormone,1,2691
+1283476,growth hormone,2,2688
+1283476,ghrh,5,2691
+1284333,tpo,4,7173
+1284333,thyroglobulin,2,7038
+1284333,tsh receptor,6,7253
+1284477,cftr,1,1080
+1284534,cystic fibrosis transmembrane conductance regulator,1,1080
+1284534,cftr,2,1080
+1284535,cystic fibrosis transmembrane conductance regulator,4,1080
+1284535,cftr,6,1080
+1284539,cftr,2,1080
+1284539,cf transmembrane conductance regulator,1,1080
+1284540,cystic fibrosis transmembrane conductance regulator,2,1080
+1284540,cftr,5,1080
+1284548,cftr,10,1080
+1284548,cystic fibrosis (cf) transmembrane conductance regulator,2,1080
+1285328,p53,20,7157
+1285360,gastrin-releasing peptide,1,2922
+1285360,grp,2,2922
+1285360,vasopressin,1,551
+1285360,avp,3,551
+1285360,neuropeptide y,1,4852
+1285360,npy,2,4852
+1285360,corticotropin releasing hormone,1,1392
+1285360,crh,2,1392
+1285360,acth,2,5443
+1285360,insulin,1,3630
+1285365,cftr,5,1080
+1285365,cystic fibrosis transmembrane conductance regular,1,1080
+1286796,cftr,1,1080
+1286796,ttr,5,7276
+1292640,il-1 beta,4,3552
+1292640,tnf-alpha,4,7124
+1292640,il-6,4,3569
+1292640,il-2,2,3558
+1292640,ifn-gamma,2,3458
+1292640,gm-csf,1,1437
+1292640,cd4,1,920
+1292640,fibrinogen,1,2244
+1295480,p53,14,7157
+1295480,estrogen receptor,2,2099
+1296800,tumor necrosis factor alpha,2,7124
+1296800,tnf-alpha,3,7124
+1296800,interleukin-1 beta,1,3553
+1296800,il-1 beta,2,3552
+1301949,n-acetylgalactosamine-4-sulfatase,1,411
+1302030,pax6,3,5080
+1302030,pax-6,6,18508
+1302038,cftr,2,1080
+1302561,p53,6,7157
+1303194,tcof1,4,6949
+1304740,interleukin-1 alpha,2,3552
+1304740,il-1 alpha,2,3552
+1304740,il-1 beta,6,3552
+1304740,il-6,12,3569
+1304740,tnf-alpha,6,7124
+1304740,ifn-alpha,6,3439
+1304740,ifn-gamma,2,3458
+1304740,il-2-receptor,2,3560
+1304740,il-1,8,3552
+1304740,ifn-y,2,3458
+1304832,c-myc,1,4609
+1304832,c-erbb-2,1,2064
+1304832,neu,1,2064
+1304832,p53,1,7157
+1307250,androgen receptor,4,367
+1307748,insulin,5,3630
+1308055,cftr,3,1080
+1308055,cystic fibrosis transmembrane conductance regulator,1,1080
+1310070,p53,20,7157
+1310251,p53,5,7157
+1310798,insulin-like growth factor-ii,1,3481
+1310798,igf-ii,9,3481
+1310798,igf-i,1,3479
+1311061,p53,48,7157
+1312561,cav,6,858
+1312569,insulin-like growth factor i,2,3479
+1312643,int-3,6,18132
+1312643,cdc-10,3,850358
+1312696,p53,7,7157
+1312700,p53,10,7157
+1312896,p53,54,7157
+1314136,bombesin,2,2922
+1314136,gastrin-releasing peptide,1,2922
+1314136,bradykinin,1,3827
+1314136,cholecystokinin,1,885
+1314136,neurotensin,1,4922
+1314136,vasopressin,1,551
+1314165,p53,10,7157
+1314165,gal4,1,3960
+1314761,calmodulin,39,801
+1315406,retinoic acid receptor alpha,2,24705
+1315406,retinoic acid receptor beta,6,24706
+1316273,cln3,10,851191
+1316273,cdc28,5,852457
+1316273,cln1,1,855239
+1316273,cln2,1,855819
+1316273,cdc34,1,851624
+1317471,pick,1,9463
+1317471,ncf-1,2,653361
+1317471,ncf-47k,4,653361
+1317471,gp91-phox,1,1536
+1317471,p22-phox,1,1535
+1317471,p47-phox,1,653361
+1318786,ssl2,7,854663
+1318786,his4,5,850327
+1318786,ercc-3,5,2071
+1318786,ssl1,1,850691
+1321346,ocrl,7,4952
+1322048,cystic fibrosis transmembrane conductance regulator,1,1080
+1322048,cftr,2,1080
+1322237,p53,76,7157
+1323096,estrogen/progesterone receptors,1,2069
+1323096,er,3,2069
+1323096,pgr,3,5241
+1323096,p53,3,7157
+1323096,c-erbb-2,3,2064
+1324601,dr3,3,8718
+1324796,p53,8,7157
+1325950,progesterone receptor,1,5241
+1325950,pgr,4,5241
+1325950,egf-r,3,1956
+1325950,insulin-like growth-factor-i receptors,1,3480
+1325950,igf-i-r,7,3480
+1325950,igf-i,1,3479
+1325950,her2,2,2064
+1325950,neu,2,2064
+1325950,c-myc,3,4609
+1326003,hla-dqb1,6,3119
+1326003,hla,1,3123
+1326003,hla-drb1,2,3123
+1326003,dqa1,2,3117
+1326003,dqb1,2,3119
+1326003,drb1,2,3123
+1327031,epidermal growth factor receptor,1,1956
+1327031,egfr,1,1956
+1327031,erbb2,1,2064
+1327031,transforming growth factor-alpha,1,7124
+1327031,tgf-alpha,1,7039
+1327031,k-ras,2,3845
+1327031,p53,2,7157
+1329504,pdeb,15,5158
+1329505,col10a1,5,1300
+1329840,tumor necrosis factor,2,7124
+1329840,tnf-alpha,3,7124
+1329840,tnf-beta,3,7124
+1329840,tnf,1,7124
+1330402,alpha 1-antitrypsin,1,5265
+1331352,p53,5,7157
+1331389,vitamin d receptor,1,7421
+1331389,parathyroid hormone,2,5741
+1332524,lp(a),5,4018
+1332524,apolipoproteins a-1 and b,1,335
+1332524,apolipoprotein a-i,4,335
+1332524,apolipoprotein b,3,338
+1332524,apolipoprotein a-i/b,1,335
+1332926,elastin,20,2006
+1333377,lamp1,4,3916
+1333377,lamp2,4,3920
+1333465,p53,5,7157
+1333648,adrenocorticotropic hormone,1,5443
+1333648,prolactin,1,5617
+1333648,insulin,1,3630
+1334053,p53,8,7157
+1334053,c-myc,7,4609
+1334370,an2,4,5080
+1334370,wt1,2,7490
+1334370,pax-6,4,5080
+1335319,vitamin d receptor,2,22337
+1335319,vdr,7,22337
+1336301,vitamin d receptor,1,7421
+1336301,vdr,10,7421
+1336301,pddr,11,1594
+1336301,vdd1,1,1594
+1336301,col2a1,5,1280
+1336301,ela1,2,1990
+1336726,tumor-suppressor,8,7248
+1336726,rb-1,2,5925
+1336726,p53,4,7157
+1338765,pdeb,28,18587
+1339481,insulin,5,3630
+1339481,rbp-1,1,5947
+1339481,rbp-2,1,5948
+1339481,p107,5,5933
+1339481,insulin-like growth factor i,1,3479
+1339481,igf-i,2,3479
+1339481,igf-ii,2,3481
+1339481,nerve growth factor,1,4803
+1339481,glucagon,1,2641
+1339481,beta-endorphin,1,5443
+1341477,hla-a,1,3105
+1341477,hla-b,1,3106
+1342640,tumor necrosis factor alpha,2,7124
+1342640,tnf alpha,7,7124
+1345166,n-cadherin,1,1000
+1345166,bcr,1,613
+1345166,glutathione-s-transferase,1,373156
+1345744,interferon-gamma,1,3458
+1345744,ifn-gamma,2,3458
+1345744,tnf-alpha,2,7124
+1345744,interleukin-2,1,3558
+1345744,il-2,1,3558
+1345744,interleukin-4,1,3565
+1345744,il-4,1,3565
+1345744,cd4,1,920
+1345744,cd8,1,925
+1345744,tnf,1,7124
+1346083,retinoblastoma,1,5925
+1346083,nf 1,1,4763
+1346144,tumor necrosis factor beta,3,7124
+1346144,tumor necrosis factor alpha,3,7124
+1346144,tnf alpha,3,7124
+1346144,tnf beta,9,7124
+1346144,histocompatibility leucocyte antigens (hla)-b,3,3106
+1346144,tnf,9,7124
+1346144,dr3,9,8718
+1346144,tsh-receptor,3,7253
+1346589,rb1,1,5925
+1346589,tp53,1,7157
+1346589,mycn,1,4613
+1347094,p53,12,7157
+1347094,ki-ras,4,3845
+1347148,pax-3,4,18505
+1347148,splotch,2,18505
+1347148,pax,2,19303
+1347148,pax-6,1,18508
+1347297,col7a1,5,1294
+1347765,dqa1,5,3117
+1347765,insulin,1,3630
+1347765,hla-drb1,1,3123
+1347765,dqb1,4,3119
+1347765,drb1,1,3123
+1347772,androgen receptor,2,367
+1347772,ar,5,367
+1348931,p53,3,7157
+1349786,hla-dqa1,1,3117
+1349786,dqa1,7,3117
+1349842,oat,6,18242
+1349842,int-2,1,14174
+1349842,cyp2e-1,1,13106
+1349923,hla-a,2,3105
+1349923,psti,2,6690
+1352359,p53,22,7157
+1352359,c-erbb-2,14,2064
+1352359,erbb2,2,2064
+1352359,estrogen receptor,2,2099
+1352685,c4a and c4b,2,720
+1352685,c4b,4,721
+1352745,cr1,10,1378
+1352745,c3br,1,1378
+1353190,p53,10,7157
+1353665,col2a1,2,1280
+1353891,p53,26,7157
+1353891,all 3,2,5079
+1354866,cftr,1,1080
+1355612,interleukin-6,2,3569
+1355612,cd2,4,914
+1355612,il-6,2,3569
+1355612,lfa-3,2,965
+1355612,interleukin-2,1,3558
+1355612,il-2,1,3558
+1355612,interleukin-2 receptor,1,3559
+1355612,il-2r,1,3559
+1355662,p53,10,7157
+1355662,epidermal growth factor receptor,2,1956
+1355662,c-erbb-2,3,2064
+1355662,egfr,2,1956
+1356901,androgen receptor,16,367
+1356945,tnf-beta,8,7124
+1356945,hla-b,4,3106
+1356945,tumor necrosis factor (tnf)-alpha,2,7124
+1356945,tnf,2,7124
+1357342,p53,1,7157
+1357424,alpha 1-antitrypsin,1,5265
+1358031,k-ras,1,3845
+1358031,c-erbb-2,1,2064
+1358031,her-2/neu,1,2064
+1358031,c-myc,1,4609
+1358031,p53,1,7157
+1358031,dcc,1,1630
+1358037,il-6,3,3569
+1358037,tumour necrosis factor (tnf) alpha,1,7124
+1358037,il-1 alpha,3,3552
+1358037,il-1 beta,3,3552
+1358037,tnf alpha,3,7124
+1358037,interleukin 6,1,3569
+1358911,dqa1,6,3117
+1358911,dqb1,6,3119
+1358979,collagen vii,1,1294
+1358979,col7a1,2,1294
+1359493,p53,5,7157
+1359669,hla,1,3123
+1359669,"hla-drb1, -dqa1, -dqb1 and -dpb1",1,3123
+1359669,tnf beta,2,7124
+1359669,hla-drb1,1,3123
+1359669,dqb1,3,3119
+1359669,drb1,1,3123
+1359669,hla-dpb1,1,3115
+1359669,hla-b,1,3106
+1360084,comt,1,1312
+1360329,p53,6,7157
+1360329,c-erbb-2,6,2064
+1361656,p53,18,7157
+1362387,alcohol dehydrogenase,2,10327
+1362387,adh4,4,127
+1362387,adh5,4,128
+1362387,adh,4,10327
+1362387,adh1,1,124
+1362387,formaldehyde dehydrogenase,1,128
+1362387,fdh,1,128
+1362387,psti,1,6690
+1362387,adh2,2,127
+1362387,adh3,3,128
+1362479,tnf-beta,4,7124
+1362479,tumor necrosis factor-beta,2,7124
+1362479,hla-b,2,3106
+1362479,hla,10,3123
+1362479,hla-drb1,2,3123
+1362479,hla-dqa1,2,3117
+1362479,hla-dqb1,2,3119
+1363518,c-erbb-2,14,2064
+1363589,cytochrome oxidase subunit i,1,26195
+1363589,coi,3,26195
+1363589,nadh dehydrogenase subunit 6,1,26203
+1363589,nd6,3,26203
+1367855,cftr,1,1080
+1370301,cystic fibrosis transmembrane conductance regulator,2,1080
+1370301,cftr,12,12638
+1370306,pg-ii,1,1634
+1370353,cftr,7,1080
+1370365,cftr,1,1080
+1370488,cystic fibrosis transmembrane conductance regulator,2,1080
+1370488,cftr,13,1080
+1370653,cystic fibrosis transmembrane conductance regulator,1,1080
+1370653,cftr,13,1080
+1370661,interleukin-6,2,3569
+1370661,interleukin 6,2,3569
+1370661,il-6,22,3569
+1370661,c-reactive protein,2,1401
+1370661,alpha 1-antitrypsin,2,5265
+1370807,cftr,2,1080
+1370807,cystic fibrosis transmembrane conductance regulator,2,1080
+1371263,cftr,12,1080
+1371277,hlyb,6,7701380
+1371277,ste6,1,853671
+1371277,hlya,1,7701379
+1371598,p-glycoprotein,6,5243
+1371598,mdr1,1,5243
+1371598,cftr,3,1080
+1372253,cftr,18,1080
+1372253,cystic fibrosis transmembrane conductance regulator,2,1080
+1372253,gcl,12,64395
+1372891,cystic fibrosis transmembrane conductance regulator,2,1080
+1372891,cftr,2,1080
+1372891,p-66,3,10714
+1372891,p-67,3,945
+1373164,thyroglobulin,4,7038
+1373310,tp53,5,7157
+1373310,progesterone receptor,1,5241
+1373310,erbb2,1,2064
+1373500,p53,16,7157
+1373500,hsp70,1,3308
+1373503,transforming growth factor beta 2,1,7042
+1373503,tgf-beta,1,7039
+1373503,tgf-beta 2,6,7042
+1373503,tgf-beta 1,3,7040
+1373503,tgf-beta 3,1,7043
+1373881,p53,45,7157
+1373908,cftr,24,1080
+1373908,cystic fibrosis transmembrane conductance regulator,3,1080
+1374096,vcam-1,7,7412
+1374096,icam-1,4,3383
+1374096,tnf-alpha,3,7124
+1374096,vascular cell adhesion molecule-1,1,7412
+1374096,beta 2,1,170589
+1374096,beta 1 integrins,1,3688
+1375156,mdr1,15,5243
+1375156,cystic-fibrosis transmembrane-conductance regulator,6,1080
+1375156,p-glycoprotein,3,5243
+1375156,cftr,24,1080
+1375186,cftr,6,1080
+1375186,cystic fibrosis transmembrane conductance regulator,2,1080
+1375432,cftr,2,1080
+1375432,cystic fibrosis transmembrane conductance regulator,1,1080
+1375475,cystic fibrosis transmembrane conductance regulator,4,12638
+1375475,cftr,10,12638
+1376016,cf transmembrane conductance regulator,1,1080
+1376016,cftr,4,1080
+1376017,cf transmembrane conductance regulator,1,1080
+1376017,cftr,4,1080
+1376182,cftr,2,1080
+1376182,cystic fibrosis transmembrane conductance regulator,2,1080
+1376258,interleukin-1,1,3552
+1376258,tumor necrosis factor-alpha,2,7124
+1376258,interleukin (il)-1,1,3552
+1376258,tnf-alpha,5,7124
+1376258,cd11a,1,3683
+1376258,cd11b,1,3684
+1376258,il-1 beta,2,3552
+1376258,il-1,2,3552
+1376492,interleukin-6,1,3569
+1376492,il-6,6,3569
+1377133,cystic fibrosis transmembrane conductance regulator,2,1080
+1377133,cftr,7,1080
+1377140,p-glycoprotein,1,5243
+1377140,cftr,2,1080
+1377165,cystic fibrosis transmembrane conductance regulator,2,12638
+1377165,cftr,11,12638
+1377165,c-met,1,17295
+1377520,insulin,5,3630
+1377520,igf-1,11,3479
+1377520,igf-2,5,3481
+1377659,cystic fibrosis transmembrane conductance regulator,1,1080
+1377659,cftr,1,1080
+1377674,cystic fibrosis transmembrane conductance regulator,2,1080
+1377674,cftr,6,1080
+1377674,pkg,4,5592
+1377674,calcium/calmodulin-dependent protein kinase i,1,8536
+1377750,col7a1,1,1294
+1377820,cystic fibrosis transmembrane conductance regulator,1,1080
+1377820,cf transmembrane conductance regulator,1,12638
+1377820,cftr,5,1080
+1377893,c-erbb-2,7,2064
+1378089,rtnf,4,24835
+1378089,tnf,1,7124
+1378393,cftr,10,1080
+1378393,sucrase-isomaltase,1,6476
+1378393,alpha 1-antitrypsin,1,5265
+1378801,cystic fibrosis transmembrane conductance regulator,1,1080
+1378801,cf transmembrane conductance regulator,1,1080
+1378801,cftr,2,1080
+1378835,cystic fibrosis transmembrane conductance regulator,1,100754506
+1378835,cftr,8,100754506
+1378862,thyroglobulin,2,24826
+1378998,cystic fibrosis transmembrane conductance regulator,1,24255
+1378998,cftr,11,24255
+1378998,mdr-1,3,24646
+1379210,cftr,6,1080
+1379210,cystic fibrosis transmembrane conductance regulator,2,1080
+1379211,cftr,1,1080
+1379244,cystic fibrosis transmembrane conductance regulator,4,1080
+1379244,cftr,14,1080
+1379413,cystic fibrosis transmembrane conductance regulator,1,1080
+1379413,cftr,1,1080
+1379473,cystic fibrosis transmembrane conductance regulator,2,1080
+1379473,cftr,4,1080
+1379613,cystic fibrosis transmembrane conductance regulator,2,1080
+1379613,cftr,12,1080
+1380241,interleukin-6,2,3569
+1380241,il-6,11,3569
+1380241,il-6r,3,3570
+1380241,gp130,3,3572
+1380241,nf-il6,4,1051
+1380483,acetylcholinesterase,2,43
+1380483,ache,10,43
+1380483,cftr,1,1080
+1380483,bche,4,590
+1380483,acylcholine acylhydrolase,1,590
+1380486,cftr,2,1080
+1380486,cystic fibrosis (cf) transmembrane conductance regulator,1,1080
+1380673,cftr,16,1080
+1380723,cystic fibrosis transmembrane conductance regulator,2,1080
+1380723,cftr,4,12638
+1380724,cystic fibrosis transmembrane conductance regulator,1,12638
+1380724,cftr,6,12638
+1380943,cftr,1,1080
+1381703,insulin-like growth factor (igf)-i,1,3479
+1381703,igf-ii,3,3481
+1381703,igfbp-1,1,3484
+1381703,insulin-like growth factor-type i (igf-i,1,3479
+1381703,igf-i,6,3479
+1381703,igfbps,1,3484
+1381723,cystic fibrosis transmembrane conductance regulator,2,1080
+1381723,cystic fibrosis conductance transmembrane regulator,2,1080
+1381723,cftr,20,1080
+1382222,cystic fibrosis transmembrane conductance regulator,1,1080
+1382222,cftr,3,1080
+1382316,cftr,4,1080
+1382316,cystic fibrosis transmembrane conductance regulator,1,1080
+1382860,p-glycoprotein,4,5243
+1382860,cftr,1,1080
+1384103,interleukin-6,4,3569
+1384103,il-6,14,3569
+1384103,c-reactive protein,2,1401
+1384103,crp,6,1401
+1384103,renin,2,5972
+1384582,cystic fibrosis transmembrane conductance regulator,4,1080
+1384582,cftr,16,1080
+1385213,cystic fibrosis transmembrane conductance regulator,1,1080
+1385213,cftr,3,1080
+1386607,hexb,4,3074
+1390948,hexb,4,3074
+1390948,alpha- and a beta,2,351
+1391597,thyroglobulin,2,100857838
+1393846,interleukin-6,2,3569
+1393846,il-6,4,3569
+1394133,p53,18,7157
+1394234,p53,4,7157
+1398068,p53,17,7157
+1398068,mck,2,12715
+1400901,anti-pyruvate dehydrogenase,1,54704
+1400901,pdh,6,54704
+1404883,ornithine transcarbamylase,1,5009
+1405404,retinoblastoma,1,5925
+1411288,calprotectin (l1,1,3897
+1411288,alpha 1-antitrypsin,1,5265
+1413493,p53,7,7157
+1415186,5-aminolevulinate synthase,2,211
+1415186,alas,10,211
+1415186,glycophorin a,1,2993
+1417119,mig,1,17329
+1417119,hla-b27,3,3106
+1418006,interleukin-6,2,3569
+1418006,il-6,6,3569
+1418006,il-1,3,3552
+1418006,matrix metalloproteinase 1,1,4312
+1418298,thyroglobulin,1,21819
+1419500,dr4,1,3126
+1419753,e-cadherin,3,999
+1419981,p53,7,7157
+1421173,n-ras,12,4893
+1421173,k-ras,2,3845
+1421422,igf-i,10,3479
+1421422,igf-ii,10,3481
+1421423,igf-i,2,3479
+1421423,igf-ii,6,3481
+1421423,estrogen receptor,1,2099
+1421624,c4b,1,721
+1423285,p53,7,7157
+1424119,hex a,2,3073
+1424119,hexa,2,3073
+1424744,interleukin 6,1,3569
+1424744,il-6,3,3569
+1424744,interleukin 1 (il-1,1,3552
+1424744,interleukin 2,1,3558
+1424744,il-2,2,3558
+1424744,tumour necrosis factor,1,7124
+1424744,tnf,2,7124
+1424744,il-1,2,3552
+1425485,p-glycoprotein,1,5243
+1425485,cftr,1,1080
+1427838,hfe,6,3077
+1427838,hla-a,4,3105
+1427899,hxb,5,3371
+1427899,gelsolin,5,2934
+1427899,gsn,5,2934
+1427899,adenylate kinase 1,5,203
+1427899,ak1,5,203
+1427899,arginosuccinate synthetase,5,445
+1427899,ass,5,445
+1427899,abl,5,25
+1427899,abl1,5,25
+1427899,abo blood group,5,28
+1427899,abo,5,28
+1427899,dopamine beta-hydroxylase,5,1621
+1427899,dbh,5,1621
+1427899,xpa,5,7507
+1427899,dyt1,5,1861
+1427899,tsc1,5,7248
+1429035,dqb,1,3119
+1429209,p53,10,7157
+1429602,collagen alpha 1(ii) chain,1,1280
+1429602,col2a1,2,1280
+1433335,ercc1,6,2067
+1433335,ercc2,4,2068
+1433368,p53,3,7157
+1436650,nerve growth factor receptor,1,4804
+1436650,ngf receptor,4,4804
+1436650,choline acetyltransferase,1,1103
+1436650,chat,2,1103
+1436650,acetylcholinesterase,1,43
+1437145,ret,7,5979
+1437145,ptc-1,5,5727
+1437145,ptc-2,5,8643
+1437795,alpha 1-antitrypsin,8,5265
+1437795,a-1--at,2,5265
+1438294,galactokinase,6,2584
+1438294,gk2,2,2712
+1438294,gal1,1,3956
+1438294,gk1,1,2584
+1439760,a beta,1,351
+1439810,microsomal triglyceride transfer protein,2,4547
+1439810,mtp,5,4547
+1440567,hla,3,3123
+1440567,drb1,9,3123
+1440567,dqa1,7,3117
+1440567,dqb1,6,3119
+1440567,hla-drb1,1,3123
+1440567,dr5,1,8795
+1440568,hla-dqa1,2,3117
+1440568,dqb1,12,3119
+1440568,drb1,10,3123
+1440568,dqa1,10,3117
+1440568,dr4,2,3126
+1440568,dr3,2,8718
+1441675,alpha-1-antitrypsin,2,5265
+1441675,alpha 1-antitrypsin,2,5265
+1441675,alpha 1-at,34,5265
+1442714,leukocyte antigen (hla) dqa1,1,3117
+1442714,dqb1,2,3119
+1442714,insulin,1,3630
+1444625,c3a,15,718
+1444625,c1-inhibitor,3,710
+1444625,c1inh,9,710
+1445805,tumor necrosis factor-alpha,1,7124
+1445805,tnf-alpha,1,7124
+1445805,il-6,1,3569
+1445805,transforming growth factor-beta,1,7124
+1445805,tgf-beta,1,7039
+1446625,calcitonin gene-related peptide,2,12310
+1446625,cgrp,16,12310
+1447574,agm1,1,3507
+1449258,cd10,3,4311
+1449258,cd19,2,930
+1449258,cd20,2,54474
+1449258,cd21,1,1380
+1449258,cd22,2,933
+1449258,cd23,1,2208
+1449258,cd38,3,952
+1449258,cd25,1,3669
+1449258,cd30,1,943
+1449258,cd71,1,7037
+1449258,cd1,1,911
+1449258,cd2,1,914
+1449258,cd4,1,920
+1449258,cd5,1,921
+1449258,cd7,1,924
+1449258,cd8,1,925
+1450460,cftr,1,1080
+1451338,cnf,5,4868
+1451338,lpl,1,4023
+1453267,p53,4,7157
+1453267,retinoblastoma (rb),1,5925
+1454059,nucleolin,5,4691
+1454059,histone h1,5,3005
+1454518,ercc3,5,39202
+1454518,sd4,2,5658269
+1454518,sd2,1,5658271
+1455194,protein c,2,5624
+1457041,nf1,14,4763
+1457041,neurofibromatosis type 1,2,4763
+1457041,ira1,2,852437
+1457041,ira2,2,854073
+1457282,cd4,2,920
+1457282,pm-scl,1,5394
+1457282,hla-dqb1,1,3119
+1457282,interleukin-2,1,3558
+1457282,interleukin-4,1,3565
+1457282,interleukin-6,1,3569
+1457282,transforming growth factor-beta,1,7124
+1457282,intercellular adhesion molecule 1,1,3383
+1457282,icam-1,3,3383
+1457282,lymphocyte function-associated antigen 1,1,3683
+1457282,endothelial leukocyte adhesion molecule 1,1,6401
+1457511,transforming growth factor-alpha,1,7124
+1457511,transforming growth factor-beta,1,7124
+1457511,tumor necrosis factor-alpha,4,7124
+1457511,interleukin-1,2,3552
+1457511,interleukin-6,1,3569
+1457511,c-erb b-2,1,2064
+1457511,her-2/neu,2,2064
+1457511,p53,1,7157
+1457511,epidermal growth factor receptor,1,1956
+1457511,c-fms,1,1436
+1457511,interferon-gamma,2,3458
+1457511,interleukin-2,2,3558
+1457747,interleukin-6,10,3569
+1457747,il-6,50,3569
+1458703,interleukin-6,1,3569
+1458703,interleukin 6,1,3569
+1458703,il-6,6,3569
+1458703,c reactive protein,1,1401
+1458703,hgf,1,3082
+1459319,hla,3,3119
+1459319,insulin,1,3630
+1459319,hla-dqb1,1,3119
+1459319,dqa1,3,3117
+1459319,dqb1,5,3119
+1461383,androgen receptor,6,367
+1461383,sbma,6,367
+1462123,interleukin-2,2,3558
+1462123,interleukin-3,2,3562
+1462123,interleukin-4,2,3565
+1462123,interleukin-6,2,3569
+1462123,interferon-gamma,3,3458
+1462123,cd25,2,3559
+1462123,c-myc,1,4609
+1462123,proto-oncogene c-myc,1,4609
+1463007,cytochrome b,3,4519
+1463017,friedreich ataxia locus,1,2395
+1463017,frda,2,2395
+1463019,liver-type arginase,2,383
+1467311,p53,5,7157
+1467486,interleukin-6,2,24498
+1467486,il-6,4,3569
+1467486,il-1 beta,1,3552
+1467486,tumor necrosis factor-alpha,1,7124
+1468776,p53,7,7157
+1468776,neu,2,2064
+1468776,estrogen receptor,1,2099
+1468776,progesterone receptor,1,5241
+1469300,c4b,7,721
+1469442,gfap,1,2670
+1469522,il-2r,6,3559
+1469522,cd4,5,920
+1469522,cd8,5,925
+1469522,iga,4,973
+1469522,interleukin 2 receptor,1,3559
+1469522,iga-aga,2,973
+1472458,androgen receptor,8,367
+1472458,ar,24,367
+1472458,psti,4,6690
+1472632,thyroglobulin,3,100857838
+1475034,dopamine d2 receptor,2,1813
+1475034,drd2,1,1813
+1477090,hla-drb1,1,3123
+1477090,hla,2,3123
+1477090,dr3,2,8718
+1477090,dq2,2,1861
+1477090,dr4,2,3126
+1477090,dqa1,6,3117
+1477090,dqb1,6,3119
+1477090,drb1,7,3123
+1477090,iddm,1,3630
+1478642,d2 dopamine receptor,3,1813
+1478642,neural cell adhesion molecule,2,4684
+1478642,drd2,5,1813
+1478642,ncam,2,4684
+1478642,apoai,1,335
+1478642,stmy,1,4314
+1480178,androgen receptor,2,367
+1480178,ar,5,367
+1481629,csf,3,1437
+1483312,interleukin-6,2,3569
+1483312,il-6,10,3569
+1484608,tumor necrosis factor-alpha,1,7124
+1484608,cachectin,1,7124
+1484608,tumor necrosis factor alpha,1,7124
+1484608,tnf-alpha,5,7124
+1485949,dqa1,1,3117
+1485949,dqb1,1,3119
+1485949,cd4,4,920
+1485950,dqa1,9,3117
+1485950,dqb1,9,3119
+1485950,dr3,6,8718
+1485950,dr4,6,3126
+1486691,interleukin 2,2,3558
+1486691,il-2) receptor,2,3560
+1486864,h-ras-1,4,3265
+1486864,l-myc,3,4610
+1486864,p53,3,7157
+1490631,gp 46,2,871
+1491459,carbonic anhydrase ii,1,760
+1491459,ca ii,2,760
+1491459,oculocerebrorenal syndrome of lowe,1,4952
+1491459,ocrl,4,4952
+1491483,osteocalcin,1,632
+1492799,aldh2,24,217
+1493370,thyroglobulin,2,7038
+1498097,il-4,9,3565
+1498097,il-2,6,3558
+1498097,ifn-gamma,7,3458
+1498097,tnf-alpha,4,7124
+1498097,ige,5,3497
+1498561,albumin,1,213
+1498561,transferrin,1,7018
+1505982,an2,4,5080
+1505982,acid phosphatase-1,2,52
+1505982,acp1,4,52
+1505982,apob,2,338
+1511156,p53,4,7157
+1512827,interleukin-6,27,3569
+1513460,androgen receptor,4,367
+1513460,sbma,4,367
+1513460,ar,4,367
+1515089,cathepsin b,1,1508
+1515089,cat b,3,1508
+1515089,cat l,3,1514
+1515089,cathepsin d,1,1509
+1516030,p53,2,7157
+1516297,cbl,2,867
+1516297,cblc,4,23624
+1516297,cbld,4,27249
+1516297,cble,4,4552
+1516297,methionine synthase,2,4548
+1517579,ifn-gamma,6,15978
+1517579,cd4,2,12504
+1517763,hmsn i and hmsn ii,1,23095
+1517763,cmt 1,3,4359
+1517763,cmt 2,1,23095
+1518181,interleukin-6,2,3569
+1518181,il-6,9,3569
+1518181,c-reactive protein,1,1401
+1518181,crp,3,1401
+1519492,p53,1,7157
+1525248,alpha 1-antiproteinase,15,5265
+1525624,cartilage oligomeric matrix protein,2,1311
+1525624,comp,4,1311
+1525830,p53,16,7157
+1527053,nerve growth factor,2,4803
+1527053,ngf,17,4803
+1528013,ocrl,3,4952
+1528363,igg3,1,3502
+1530443,antithrombin iii,1,462
+1530862,thyroglobulin,6,21819
+1531188,il-6,18,3569
+1531188,cd14,2,929
+1532632,beta-hexosaminidase,2,10724
+1532910,hexb,8,3074
+1532910,beta-hexosaminidase,2,10724
+1532910,hexa,4,3073
+1533481,vasopressin,6,551
+1533481,acth,1,5443
+1534143,p300,8,2033
+1534143,p107,1,5933
+1534143,nf-kappa b,1,4790
+1536179,cftr,4,1080
+1536179,cystic fibrosis transmembrane conductance regulator,1,1080
+1536955,"neurofibromatosis, type 1",2,4763
+1536955,nf-1,11,4763
+1537354,cblc,2,23624
+1537617,p53,48,7157
+1537617,c-erbb-2,3,2064
+1540977,il-2,18,3558
+1540977,il-6,16,3569
+1540977,tnf alpha,6,7124
+1540977,interferon gamma,2,3458
+1540977,ifn gamma,4,3458
+1542282,alpha-1-antitrypsin,9,5265
+1542282,c-reactive protein,3,1401
+1542282,crp,9,1401
+1542282,albumin,6,213
+1542282,a1at,9,5265
+1542282,antithrombin iii,3,462
+1542282,fibrinogen,6,2244
+1542282,viii,6,1351
+1544169,il6,15,3569
+1544169,interferon-gamma,6,3458
+1544169,interleukin 6,3,3569
+1545831,cftr,1,1080
+1546902,interleukin-2,3,16183
+1546902,il-2,4,16183
+1548146,dqb,1,3119
+1548146,dqa1,4,3117
+1548146,dqb1,4,3119
+1548146,dr3,1,8718
+1548146,dr4,1,3126
+1550404,interleukin 6,3,3569
+1550404,il-6,8,3569
+1550404,il-1,3,3552
+1550404,insulin,1,3630
+1550412,dr1,1,1810
+1550412,c4b,1,721
+1550446,insulin,4,3630
+1550446,dr3,2,8718
+1550446,dr4,2,3126
+1553789,ki-ras,12,3845
+1553789,n-ras,4,4893
+1554358,interleukin-2,2,3558
+1554358,il-2,10,3558
+1554414,ki-ras,6,16653
+1554414,gas-3,6,18858
+1556182,hla-dqb1,2,3119
+1556182,hla,2,3119
+1556182,dr4,2,3126
+1556182,dr5,1,8795
+1556182,dr1,1,1810
+1556182,dqb1,3,3119
+1556695,interleukin 6,2,3569
+1556695,il-6,3,3569
+1556702,interleukin 6,2,3569
+1556702,il-6,7,3569
+1556702,c-reactive protein,1,1401
+1556897,tumor necrosis factor,2,7124
+1556897,tnf,4,7124
+1556897,tnf alpha,1,7124
+1557756,p53,4,7157
+1559236,p53,12,7157
+1563831,myc,2,4609
+1563831,l-myc,5,4610
+1563831,c-myc,10,24577
+1563831,n-myc,2,4613
+1564938,tumor necrosis factor,2,7124
+1564938,tnf,10,7124
+1564938,interleukin (il) 1 alpha,1,3552
+1564938,il-1 beta,1,3552
+1564938,il-2,2,3558
+1564938,il-3,1,3562
+1564938,il-4,1,3565
+1564938,il-5,1,3567
+1564938,il-6,1,3569
+1564938,gm-csf,1,1437
+1565143,p53,6,7157
+1565247,hla-dqb1,6,3119
+1565247,dqb1,24,3119
+1565247,dqb,2,3119
+1565469,p53,56,7157
+1567185,rb1,18,5925
+1567185,p53,21,7157
+1567185,p21,6,644914
+1569122,p53,9,7157
+1569192,factor xa,2,2159
+1569192,thrombin,2,2147
+1569192,alpha 1-antitrypsin,1,5265
+1569192,alpha 1-at,5,5265
+1569192,antithrombin iii,1,462
+1569604,p53,30,7157
+1570151,p53,12,7157
+1570743,thyroglobulin,1,7038
+1571407,interferon (ifn)-alpha,1,3440
+1571407,ifn-alpha 2b,1,3440
+1572693,interleukin-6,1,3569
+1572693,il-6,1,3569
+1572693,tnf-alpha,2,7124
+1572693,interferon-gamma,1,3458
+1572693,ifn-gamma,2,3458
+1575548,tnf-alpha,20,7124
+1577950,tumor necrosis factor-alpha,2,7124
+1577950,tnf-alpha,6,7124
+1577950,albumin,2,213
+1578514,amyloid precursor protein,2,351
+1581912,p53,42,7157
+1582509,ki-ras,1,3845
+1582509,p21,1,644914
+1582608,alpha 1 antitrypsin,1,5265
+1586628,p53,1,7157
+1586628,epidermal growth factor receptor,1,1956
+1587536,p53,24,7157
+1589758,sbma,4,367
+1591284,p53,1,22060
+1591284,nf-1,1,18015
+1591732,tp53,4,7157
+1592883,transthyretin,4,7276
+1592883,insulin,4,3630
+1592883,ttr,16,7276
+1592883,glucagon,2,2641
+1593647,p53,1,7157
+1598026,glial fibrillary acidic protein,8,2670
+1598026,gfap,24,2670
+1598026,interleukin 2,4,3558
+1598026,il-2,12,3558
+1601008,igg3,3,3502
+1601643,interleukin-6,2,3569
+1601643,tumor necrosis factor-alpha,2,7124
+1601643,interferon-gamma,1,3458
+1601643,tnf alpha,6,7124
+1601643,il-6,8,3569
+1601643,il-1 beta,1,3552
+1601643,interleukin-1 beta,1,3553
+1602292,interleukin 6,3,3569
+1602292,tcii,12,6948
+1602292,tci and iii,3,6947
+1602292,tnf,9,7124
+1602292,interleukin-6,3,3569
+1602292,il6,9,3569
+1604230,hla b27,2,3106
+1609264,neutrophil elastase,3,1991
+1611773,succinate dehydrogenase,1,6390
+1611773,sdh,2,6390
+1614874,interferon-alpha,1,111654
+1614874,irf-1,12,16362
+1614874,interferon-alpha 4,1,15967
+1614874,ifn-alpha 4,1,15967
+1614874,ifn-alpha 6,1,15969
+1614874,alpha f1,4,19185
+1614874,interferon regulatory factor 1,1,16362
+1614874,ifn-alpha,3,111654
+1614874,interferon stimulated (isg)-15,1,100038882
+1617667,p53,6,7157
+1617667,progesterone receptor,2,5241
+1621480,growth hormone,7,2688
+1621480,somatotropin,1,2688
+1621480,igf-1,1,3479
+1621480,igf-2,1,3481
+1621480,igf-binding protein-1,1,3484
+1622424,interleukin-6,1,3569
+1622629,p53,1,7157
+1624772,tfm,16,11835
+1624772,androgen receptor,2,11835
+1624772,ta,2,13607
+1624772,tabby,2,13607
+1628431,sca1,12,6310
+1628450,tumor necrosis factor alpha,1,7124
+1628450,tnf alpha,2,7124
+1628450,interleukin-1 alpha,1,3552
+1628450,il-1 alpha,2,3552
+1628450,interleukin-1 beta,1,3553
+1628450,il-1 beta,2,3552
+1628450,interleukin-6,1,3569
+1628450,il-6,2,3569
+1630052,alpha 1 protease inhibitor,4,5265
+1630052,il-1,4,3552
+1630052,tnf alpha,4,7124
+1630052,interleukin-1 alpha,2,3552
+1630052,il-1 alpha,4,3552
+1630052,il-1 beta,4,3552
+1630052,tumor necrosis factor alpha,2,7124
+1630052,tnf,2,7124
+1631137,p53,9,7157
+1632191,tfm,18,11835
+1634229,sphingolipid activator protein 1,2,5660
+1634229,sap-1,8,5660
+1634229,prosaposin,4,5660
+1634353,nd4,2,4538
+1634763,il-1 beta,1,16175
+1634763,cd4,1,12504
+1634763,ril-1 beta,10,24493
+1634763,il-6,3,16193
+1634763,ril-2,1,116562
+1635296,nd4,4,4538
+1635670,amyloid precursor protein,1,351
+1635670,beta amyloid precursor protein,1,351
+1637886,interleukin-6,1,3569
+1637893,spam,1,346007
+1638632,alpha n-catenin,6,1496
+1638632,n-cadherin,1,1000
+1638632,e-cadherin,2,999
+1638632,beta-catenin,1,1499
+1639411,tsc1,1,7248
+1639411,dyt1,1,1861
+1639411,ak1,1,203
+1639411,abo,1,28
+1641053,vddr,1,1594
+1641148,glucagon,5,2641
+1641148,insulin,2,3630
+1642448,alpha 1-antitrypsin,1,5265
+1643291,interleukin-6,2,3569
+1643291,il-6,5,3569
+1643619,cs,7,1431
+1643752,thyroglobulin,6,21819
+1643752,cd4,2,12504
+1644930,p53,9,7157
+1647645,nerve growth factor,6,310738
+1648702,p53,27,7157
+1649042,antithrombin iii,3,462
+1649042,fibrinogen,1,2244
+1649042,prothrombin,4,2147
+1649042,at iii,9,462
+1649042,afp,2,174
+1649734,k-ras,1,3845
+1649734,p53,1,7157
+1652755,interleukin 6,2,3569
+1652755,p53,12,7157
+1652755,il-6,11,3569
+1652755,c-fos,5,2353
+1652755,il-1,1,3553
+1652892,gaa,4,2548
+1652892,styi,2,55808
+1652893,vitamin d receptor,18,7421
+1652893,vitamin d3 receptor,3,7421
+1656362,p53,21,7157
+1662049,prothrombin,2,2147
+1662049,antithrombin iii,2,462
+1662825,thymopoietin,1,7112
+1667942,interleukin 1,1,3552
+1667942,tumor necrosis factor-alpha,2,7124
+1667942,interleukin 6,1,3569
+1667942,interleukin-6,1,3569
+1667942,il-6,5,3569
+1667942,il-1,5,3552
+1667942,tnf-alpha,5,7124
+1669847,thyroglobulin,2,24826
+1670635,methylmalonyl coa mutase,1,4594
+1671807,col2a1,1,1280
+1672092,igf-i,7,16000
+1672092,igf-ii,6,3481
+1672123,hla-b,2,3106
+1672123,bat1,2,7919
+1672123,bat2,7,7916
+1672546,anti-interleukin 2 receptor,2,16184
+1672546,il-2r,5,16184
+1672546,cd4,2,12504
+1672546,igg1,1,16017
+1672546,igg2a,1,668478
+1672546,igg2b,1,16016
+1672728,hla-drb1,1,3123
+1672728,drb1,5,3123
+1672728,b18,4,4713
+1672728,sco1,1,6341
+1673033,transforming growth factor beta 1,1,7040
+1673033,tgf-beta,6,7039
+1673033,tgf-beta 1,2,7040
+1673033,retinoblastoma gene product (p105),1,4790
+1673033,p60,1,7984
+1673792,p53,8,7157
+1673843,cd2,18,914
